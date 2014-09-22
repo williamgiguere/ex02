@@ -1,0 +1,5 @@
+pubsec.lock
+.DS-Store
+packages
+bin/.DS-Store
+doc/.DS-Store
